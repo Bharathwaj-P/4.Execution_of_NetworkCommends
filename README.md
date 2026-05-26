@@ -28,7 +28,7 @@ This commands includes
 
 ## Output
 ## 1.IPCONFIG
-```bash
+```
 
 C:\Users\yuvasri>ipconfig
 
